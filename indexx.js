@@ -79,7 +79,7 @@ function filll(rows,i,n)
               if(rows[i].getAttribute('ty')==='M'){
                 nutritionLink.addEventListener("click", function(event) {
                 event.preventDefault();
-                result.innerHTML = `(هكتار)المساحة=${n} هكتار`;
+                result.innerHTML = `المساحة=${n} هكتار`;
               })
             }
             else if(rows[i].getAttribute('ty')==='W'){
@@ -91,7 +91,7 @@ function filll(rows,i,n)
             else if(rows[i].getAttribute('ty')==='E'){
               recipesLink.addEventListener("click", function(event) {
                 event.preventDefault();
-                result.innerHTML = `انتاجية المحصول (طن-هكتار)=${n} طن/هكتار`;
+                result.innerHTML = `انتاجية المحصول=${n} طن/هكتار`;
               });
             }
           }
