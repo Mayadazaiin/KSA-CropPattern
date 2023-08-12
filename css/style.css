@@ -84,6 +84,7 @@ text-decoration: none;
     
       .fruit-details li {
         margin-bottom: 5px;
+        text-decoration: none;
       }
     body{
 
@@ -119,6 +120,15 @@ background-color: #003462;
     color: #63be6a;
 }
 
+.nutrition-link {
+    text-decoration: none;
+}
+.recipes-link{
+text-decoration: none;
+}
+.availability-link{
+    text-decoration: none;
+}
     #Home
     {
         width: 100%;
