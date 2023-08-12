@@ -2,7 +2,7 @@
 <rec>
     <Records>
         <المحصول>
-        <Row ty='M' id="0" type='الفاكهة'> النخيل</Row>
+        <Row ty='M' id="0" type='الفاكهة'>النخيل</Row>
         <Row ty='M' id="1" type='الفاكهة'>الحمضيات</Row>
         <Row ty='M' id="2" type='الفاكهة'>الرمان</Row>
         <Row ty='M' id="3" type='الفاكهة'>المانجو</Row>
@@ -17,33 +17,33 @@
 
         <Row ty='M' id="10" type='الحبوب'>القمح</Row>
         <Row ty='M' id="11" type='الحبوب'>الشعير</Row>
-        <Row ty='M' id="12" type='الحبوب'> الذرة الرفيعة</Row>
+        <Row ty='M' id="12" type='الحبوب'>الذرة الرفيعة</Row>
         <Row ty='M' id="13" type='الحبوب'>الذرة الشامية</Row>
 
 
         <Row ty='M' id="14" type='شتوي'>البطاطس</Row>
         <Row ty='M' id="15" type='شتوي'>الطماطم</Row>
         <Row ty='M' id="16" type='شتوي'>الجزر</Row>
-        <Row ty='M' id="17" type='شتوي'> الخضر الورقية </Row>
+        <Row ty='M' id="17" type='شتوي'>الخضر الورقية</Row>
         <Row ty='M' id="18" type='شتوي'>الكوسا</Row>
-        <Row ty='M' id="19" type='شتوي'> الخضروات الاخرى  </Row>
+        <Row ty='M' id="19" type='شتوي'>الخضروات الاخرى</Row>
 
 
 
 
 
 
-        <Row ty='M' id="20" type='صيفي'>  الشمام </Row>
-        <Row ty='M' id="21" type='صيفي'>الكوسا  </Row>
-        <Row ty='M' id="22" type='صيفي'> الفاصوليا</Row>
-        <Row ty='M' id="23" type='صيفي'>الباميا </Row>
-        <Row ty='M' id="24" type='صيفي'> الباذنجان </Row>
+        <Row ty='M' id="20" type='صيفي'>الشمام</Row>
+        <Row ty='M' id="21" type='صيفي'>الكوسا</Row>
+        <Row ty='M' id="22" type='صيفي'>الفاصوليا</Row>
+        <Row ty='M' id="23" type='صيفي'>الباميا</Row>
+        <Row ty='M' id="24" type='صيفي'>الباذنجان</Row>
 
 
-        <Row ty='M' id="25" type='المحمية'>الخيار  </Row>
-        <Row ty='M' id="26" type='المحمية'> الطماطم</Row>
-        <Row ty='M' id="27" type='المحمية'>الفلفل </Row>
-        <Row ty='M' id="28" type='المحمية'>الفراولة  </Row>
+        <Row ty='M' id="25" type='المحمية'>الخيار</Row>
+        <Row ty='M' id="26" type='المحمية'>الطماطم</Row>
+        <Row ty='M' id="27" type='المحمية'>الفلفل</Row>
+        <Row ty='M' id="28" type='المحمية'>الفراولة</Row>
 
         </المحصول>
 
@@ -99,7 +99,7 @@
         <Row ty='M' id="التفاح">0</Row>
 
 
-        <Row ty='M' id="البرسيم ">98.80 </Row>
+        <Row ty='M' id="البرسيم">98.80 </Row>
         <Row ty='M' id="البونيكام">3.70</Row>
 
 
@@ -153,7 +153,7 @@
         <Row ty='M' id="التفاح">0</Row>
 
 
-        <Row ty='M' id="البرسيم ">252.90 </Row>
+        <Row ty='M' id="البرسيم">252.90 </Row>
         <Row ty='M' id="البونيكام">6.20</Row>
 
 
@@ -178,7 +178,7 @@
 
 
 
-        <Row ty='M' id="الشمام">  0.70 </Row>
+        <Row ty='M' id="الشمام">0.70</Row>
         <Row ty='M' id="الكوسا"> 18.80 </Row>
         <Row ty='M' id="الفاصوليا">46.30 </Row>
         <Row ty='M' id="الباميا">11.90 </Row>
@@ -244,7 +244,7 @@
         <Row ty='M' id="التفاح">0</Row>
 
 
-        <Row ty='M' id="البرسيم ">22.0 </Row>
+        <Row ty='M' id="البرسيم">22.0 </Row>
         <Row ty='M' id="البونيكام">3.20</Row>
 
 
@@ -269,7 +269,7 @@
 
 
 
-        <Row ty='M' id="الشمام">  25.00 </Row>
+        <Row ty='M' id="الشمام">25.00</Row>
         <Row ty='M' id="الكوسا"> 26.30 </Row>
         <Row ty='M' id="الفاصوليا">12.10 </Row>
         <Row ty='M' id="الباميا">12.30 </Row>
@@ -297,7 +297,7 @@
         <Row ty='M' id="التفاح">0</Row>
 
 
-        <Row ty='M' id="البرسيم ">72.80 </Row>
+        <Row ty='M' id="البرسيم">72.80 </Row>
         <Row ty='M' id="البونيكام">4.50</Row>
 
 
@@ -311,7 +311,7 @@
 
 
         <Row ty='M' id="البطاطس"> 0.70 </Row>
-        <Row ty='M' id="الطماطم"> 75.80 </Row>
+        <Row ty='M' id="الطماطم">75.80 </Row>
         <Row ty='M' id="الجزر">6.10 </Row>
         <Row ty='M' id="الخضر الورقية"> 4.20</Row>
         <Row ty='M' id="الكوسا">16.40 </Row>
@@ -330,7 +330,7 @@
 
 
         <Row ty='M' id="الخيار"> 2.0</Row>
-        <Row ty='M' id="الطماطم"> 3.0</Row>
+        <Row ty='M' id="الطماطم">3.0</Row>
         <Row ty='M' id="الفلفل"> 5.0</Row>
         <Row ty='M' id="الفراولة"> 0 </Row>
 
@@ -351,7 +351,7 @@
         <Row ty='W' id="7">التفاح</Row>
 
 
-        <Row ty='W' id="8"> البرسيم </Row>
+        <Row ty='W' id="8">البرسيم</Row>
         <Row ty='W' id="9">البونيكام</Row>
 
         <Row ty='W' id="10">القمح</Row>
@@ -368,17 +368,17 @@
         <Row ty='W' id="19"> الخضروات الاخرى  </Row>
 
 
-        <Row ty='W' id="20">  الشمام </Row>
-        <Row ty='W' id="21">الكوسا  </Row>
-        <Row ty='W' id="22"> الفاصوليا</Row>
-        <Row ty='W' id="23">الباميا </Row>
-        <Row ty='W' id="24"> الباذنجان </Row>
+        <Row ty='W' id="20">الشمام</Row>
+        <Row ty='W' id="21">الكوسا</Row>
+        <Row ty='W' id="22">الفاصوليا</Row>
+        <Row ty='W' id="23">الباميا</Row>
+        <Row ty='W' id="24">الباذنجان</Row>
 
 
-        <Row ty='W' id="25">الخيار  </Row>
-        <Row ty='W' id="26"> الطماطم</Row>
-        <Row ty='W' id="27">الفلفل </Row>
-        <Row ty='W' id="28">الفراولة  </Row>
+        <Row ty='W' id="25">الخيار</Row>
+        <Row ty='W' id="26">الطماطم</Row>
+        <Row ty='W' id="27">الفلفل</Row>
+        <Row ty='W' id="28">الفراولة</Row>
 
         </المحصول>
 
@@ -395,7 +395,7 @@
         <Row ty='W' id="التفاح">8200</Row>
 
 
-        <Row ty='W' id="البرسيم ">44078 </Row>
+        <Row ty='W' id="البرسيم">44078 </Row>
         <Row ty='W' id="البونيكام">38500</Row>
 
 
@@ -438,7 +438,7 @@
         <Row ty='W' id="التين الحماط">6840</Row>
         <Row ty='W' id="الجوافة">0</Row>
         <Row ty='W' id="التفاح">0</Row>
-        <Row ty='W' id="البرسيم ">36064 </Row>
+        <Row ty='W' id="البرسيم">36064 </Row>
         <Row ty='W' id="البونيكام">31500</Row>
         <Row ty='W' id="القمح">6840</Row>
         <Row ty='W' id="الشعير">5670</Row>
@@ -472,7 +472,7 @@
         <Row ty='W' id="التين الحماط">6080</Row>
         <Row ty='W' id="الجوافة">8000</Row>
         <Row ty='W' id="التفاح">0</Row>
-        <Row ty='W' id="البرسيم ">32057</Row>
+        <Row ty='W' id="البرسيم">32057</Row>
         <Row ty='W' id="البونيكام">28000</Row>
         <Row ty='W' id="القمح">6080</Row>
         <Row ty='W' id="الشعير">5040</Row>
@@ -509,7 +509,7 @@
         <Row ty='W' id="التفاح">0</Row>
 
 
-        <Row ty='W' id="البرسيم ">40071 </Row>
+        <Row ty='W' id="البرسيم">40071 </Row>
         <Row ty='W' id="البونيكام">35000</Row>
         <Row ty='W' id="القمح">7600</Row>
         <Row ty='W' id="الشعير">6300</Row>
@@ -522,7 +522,7 @@
         <Row ty='W' id="الجزر">10000 </Row>
         <Row ty='W' id="الخضر الورقية"> 13400 </Row>
         <Row ty='W' id="الكوسا">10000 </Row>
-        <Row ty='W' id=" الخضروات الاخرى"> 0 </Row>
+        <Row ty='W' id="الخضروات الاخرى"> 0 </Row>
 
         <Row ty='W' id="الشمام">  0</Row>
         <Row ty='W' id="الكوسا"> 11000 </Row>
@@ -551,7 +551,7 @@
         <Row ty='W' id="التفاح">0</Row>
 
 
-        <Row ty='W' id="البرسيم ">44078 </Row>
+        <Row ty='W' id="البرسيم">44078 </Row>
         <Row ty='W' id="البونيكام">38500</Row>
 
 
@@ -689,34 +689,34 @@
         <Row ty='E' id="7">التفاح</Row>
 
 
-        <Row ty='E' id="8"> البرسيم </Row>
+        <Row ty='E' id="8">البرسيم</Row>
         <Row ty='E' id="9">البونيكام</Row>
 
         <Row ty='E' id="10">القمح</Row>
         <Row ty='E' id="11">الشعير</Row>
-        <Row ty='E' id="12"> الذرة الرفيعة</Row>
+        <Row ty='E' id="12">الذرة الرفيعة</Row>
         <Row ty='E' id="13">الذرة الشامية</Row>
 
 
-        <Row ty='E' id="14">البطاطس  </Row>
-        <Row ty='E' id="15">الطماطم  </Row>
+        <Row ty='E' id="14">البطاطس</Row>
+        <Row ty='E' id="15">الطماطم</Row>
         <Row ty='E' id="16">الجزر </Row>
-        <Row ty='E' id="17"> الخضر الورقية </Row>
-        <Row ty='E' id="18">الكوسا </Row>
-        <Row ty='E' id="19"> الخضروات الاخرى  </Row>
+        <Row ty='E' id="17">الخضر الورقية</Row>
+        <Row ty='E' id="18">الكوسا</Row>
+        <Row ty='E' id="19">الخضروات الاخرى</Row>
 
 
-        <Row ty='E' id="20">  الشمام </Row>
-        <Row ty='E' id="21">الكوسا  </Row>
-        <Row ty='E' id="22"> الفاصوليا</Row>
+        <Row ty='E' id="20">الشمام</Row>
+        <Row ty='E' id="21">الكوسا</Row>
+        <Row ty='E' id="22">الفاصوليا</Row>
         <Row ty='E' id="23">الباميا </Row>
         <Row ty='E' id="24"> الباذنجان </Row>
 
 
-        <Row ty='E' id="25">الخيار  </Row>
-        <Row ty='E' id="26"> الطماطم</Row>
-        <Row ty='E' id="27">الفلفل </Row>
-        <Row ty='E' id="28">الفراولة  </Row>
+        <Row ty='E' id="25">الخيار</Row>
+        <Row ty='E' id="26">الطماطم</Row>
+        <Row ty='E' id="27">الفلفل</Row>
+        <Row ty='E' id="28">الفراولة</Row>
 
         </المحصول>
 
@@ -731,7 +731,7 @@
         <Row ty='E' id="التين الحماط">21.00</Row>
         <Row ty='E' id="الجوافة">0</Row>
         <Row ty='E' id="التفاح">0</Row>
-        <Row ty='E' id="البرسيم ">18.40 </Row>
+        <Row ty='E' id="البرسيم">18.40 </Row>
         <Row ty='E' id="البونيكام">15.00</Row>
         <Row ty='E' id="القمح">3.00</Row>
         <Row ty='E' id="الشعير">2.40</Row>
@@ -764,7 +764,7 @@
         <Row ty='E' id="التين الحماط">20.61</Row>
         <Row ty='E' id="الجوافة">0</Row>
         <Row ty='E' id="التفاح">0</Row>
-        <Row ty='E' id="البرسيم ">18.00 </Row>
+        <Row ty='E' id="البرسيم">18.00 </Row>
         <Row ty='E' id="البونيكام">14.62</Row>
         <Row ty='E' id="القمح">2.94</Row>
         <Row ty='E' id="الشعير">2.34</Row>
@@ -797,7 +797,7 @@
         <Row ty='E' id="التين الحماط">20.07</Row>
         <Row ty='E' id="الجوافة">0</Row>
         <Row ty='E' id="التفاح">0</Row>
-        <Row ty='E' id="البرسيم ">17.89</Row>
+        <Row ty='E' id="البرسيم">17.89</Row>
         <Row ty='E' id="البونيكام">14.53</Row>
         <Row ty='E' id="القمح">2.91</Row>
         <Row ty='E' id="الشعير">2.32</Row>
@@ -830,7 +830,7 @@
         <Row ty='E' id="التين الحماط">18.00</Row>
         <Row ty='E' id="الجوافة">12.00</Row>
         <Row ty='E' id="التفاح">20</Row>
-        <Row ty='E' id="البرسيم ">17.49 </Row>
+        <Row ty='E' id="البرسيم">17.49 </Row>
         <Row ty='E' id="البونيكام">14.44</Row>
         <Row ty='E' id="القمح">2.87</Row>
         <Row ty='E' id="الشعير">2.28</Row>
@@ -865,7 +865,7 @@
         <Row ty='E' id="التين الحماط">18.00</Row>
         <Row ty='E' id="الجوافة">11.62</Row>
         <Row ty='E' id="التفاح">0</Row>
-        <Row ty='E' id="البرسيم ">17.62 </Row>
+        <Row ty='E' id="البرسيم">17.62 </Row>
         <Row ty='E' id="البونيكام">14.37</Row>
         <Row ty='E' id="القمح">2.50</Row>
         <Row ty='E' id="الشعير">2.20</Row>
@@ -900,7 +900,7 @@
         <Row ty='E' id="التين الحماط">20.34</Row>
         <Row ty='E' id="الجوافة">11.62</Row>
         <Row ty='E' id="التفاح">0</Row>
-        <Row ty='E' id="البرسيم ">17.90 </Row>
+        <Row ty='E' id="البرسيم">17.90 </Row>
         <Row ty='E' id="البونيكام">14.59</Row>
         <Row ty='E' id="القمح">2.89</Row>
         <Row ty='E' id="الشعير">2.32</Row>
