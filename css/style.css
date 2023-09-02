@@ -1,3 +1,13 @@
+@media only screen and (min-width: 768px) {
+
+}
+
+.openNav{
+    color: #008941;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #003462;
+}
 @font-face {
     font-family: 'SST Arabic-Bold';
     src: url('path-to-your-font/sst-arabic-bold.woff2') format('woff2'), /* Modern Browsers */
@@ -545,6 +555,59 @@ h19{
         margin-bottom: 5px;
         text-decoration: none;
       }
+
+      
+      .tabs-container {
+        position: fixed;
+        width: 55px;
+        right: 0;
+        height: 50vh;
+     bottom: 25%;
+        padding: 10px;
+        background-color:rgb(3, 40, 72,0.4);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        box-shadow: -4px 0 10px rgb(3, 40, 72,0.9);
+        border-radius: 10px;
+      }
+    .col container50{
+        background-color: aqua;
+    }
+      .tab {
+      color: white;
+      text-decoration: none;
+  
+      border-radius: 5%;
+      display: flex;
+      align-items: center;
+      padding: 10px;
+      margin: 5px 0; /* Adjust margin */
+      border: 2px solid transparent;
+      transition: border-color 0.3s;
+    }
+  
+    .tab:hover {
+      border-color: white;
+    }
+  
+    .icon {
+      margin-right: 5px;
+    color: #003462;;
+    font-size: 24px;
+    }
+    .fa-home{
+        color: #003462;
+        margin-right: 10px;
+        font-size: 24px;
+    }
+    .fa-seedling{
+        color: #003462;
+        margin-right: 10px;
+        font-size: 24px;
+    }
 .header {
 font-family: 'SST Arabic', Arial, sans-serif;
 background-color: #003462;
@@ -560,7 +623,7 @@ background-color: #003462;
         /* background-color: #003462; */
         margin: 0;
         padding: 0;
-        background-image: url("https://as2.ftcdn.net/v2/jpg/01/03/31/31/1000_F_103313162_gekaDlWoSpc6C4bHmp8zhHXXQ2pz9wPf.jpg"); 
+        background-image: url("https://i.pinimg.com/750x/08/d0/5a/08d05ab9e5e932c76936d8b052596f8e.jpg"); 
         
        
         background-size: cover;
@@ -665,17 +728,17 @@ text-decoration: none;
         z-index: 1;
         top: 0;
         left: 0;
-        background-color: #111;
+        background-color: #003462;
         overflow-x: hidden;
         transition: 0.5s;
         padding-top: 60px;
     } 
     
     .sidenav a {
-       
+       text-align: center;
         text-decoration: none;
         font-size: 25px;
-        color: #818181;
+      background-color: #003462;
         display: block;
         transition: 0.3s;
         color: white;
@@ -732,10 +795,7 @@ text-decoration: none;
         font-size: 60px;
     }
     
-    @media screen and (max-height: 450px) {
-      .sidenav {padding-top: 15px;}
-      .sidenav a {font-size: 18px;}
-    }
+   
     
     
     
